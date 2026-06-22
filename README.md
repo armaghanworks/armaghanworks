@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This is my firt git Repository
+This is my first git Repository

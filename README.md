@@ -1,7 +1,5 @@
-<h1 align="center">Hi there, I'm Armaghan 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;C%2B%2B+Enthusiast;DSA+Problem+Solver;Building+Scalable+Apps&font=Ubuntu&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Muhammad+Armaghan+Khan;Software+Engineer;C%2B%2B+Enthusiast;DSA+Problem+Solver&font=Ubuntu&center=true&width=500&height=50" />
 </p>
 
 <p align="center">
@@ -27,13 +25,13 @@ degree: BS Software Engineering (Bahria University)
 cgpa: 3.33
 
 focus:
-  - Full-Stack Web Development (Node.js, Next.js, Oracle DB)
+  - Web Development (JavaScript, HTML, CSS, SQL)
   - Data Structures & Algorithms
   - Object-Oriented Programming (C++)
   - Database Management Systems
 
 currently:
-  - Building scalable full-stack applications
+  - Building real-world software projects
   - Exploring advanced DSA concepts
   - Contributing to open-source projects
   - Learning system design & architecture
@@ -131,16 +129,12 @@ goal: "Build innovative software solutions that solve real-world problems"
   <a href="mailto:armaghan.khan.654@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://armaghanworks.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
 </p>
 
 ---
 
 ## 💼 Professional Summary
 
-- 🚀 Full-Stack Developer with experience in Node.js, Next.js, Oracle DB, and Vanilla JavaScript
 - 🧮 DSA Enthusiast — implemented BST, Linked Lists, and Haversine formula for real-world proximity sorting
 - ⚙️ C++ Developer — built modular OS-level memory optimizers and OOP-based voting systems
 - 🎨 Frontend Designer — created responsive UIs with CSS Grid, Flexbox, and 3D transforms

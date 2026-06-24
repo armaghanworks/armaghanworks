@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Muhammad+Armaghan+Khan;Software+Engineer;C%2B%2B+Enthusiast;DSA+Problem+Solver&font=Ubuntu&center=true&width=500&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Muhammad+Armaghan+Khan;Software+Engineer;C%2B%2B+Enthusiast;DSA+Problem+Solver&font=Ubuntu&center=true&width=700&height=70&size=35" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armaghanworks&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armaghanworks&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=armaghanworks&show_icons=true&theme=radical&hide_title=true&hide_border=true&card_width=300" alt="GitHub Stats" width="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armaghanworks&theme=radical&hide_border=true&card_width=300" alt="Streak Stats" width="300" />
 </p>
 
 <p align="center">

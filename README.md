@@ -1,5 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Muhammad+Armaghan+Khan;Software+Engineer;C%2B%2B+Enthusiast;DSA+Problem+Solver&font=Ubuntu&center=true&width=700&height=70&size=35" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Muhammad+Armaghan+Khan;Software+Engineer;&font=Ubuntu&center=true&width=700&height=70&size=35" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/armaghanworks?label=Followers&style=social" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=armaghanworks&label=Profile+views&color=0e76a8&style=flat-square" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+I'm+Muhammad+Armaghan+Khan;Software+Engineer;Full-Stack+Developer&font=Ubuntu&center=true&width=500&height=50&size=35" />
 </p>
 
 <p align="center">
